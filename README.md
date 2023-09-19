@@ -15,3 +15,4 @@
 
 
 # NATURAL LANGUAGE PROCESSING
+![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/2023_09_19%208_55%20pm%20Office%20Lens.jpg)
