@@ -1,5 +1,5 @@
 # Convolutional Neural Network - Computer Vision
-
+# 
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/1694839302653.jpg)
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/1694839302647.jpg)
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/1694839302642.jpg)
@@ -15,6 +15,7 @@
 
 
 # NATURAL LANGUAGE PROCESSING
+# 
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/2023_09_19%208_55%20pm%20Office%20Lens.jpg)
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/Screenshot%202023-09-19%20201722.jpg)
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/Screenshot%202023-09-19%20201742.jpg)
