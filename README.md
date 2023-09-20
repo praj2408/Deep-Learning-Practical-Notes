@@ -22,3 +22,16 @@
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/Screenshot%202023-09-19%20201742.jpg)
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/Screenshot%202023-09-19%20201919.jpg)
 ![](https://github.com/praj2408/Deep-Learning-Practical-Notes/blob/main/docs/Screenshot%202023-09-19%20202419.jpg)
+
+
+
+# Interview Questions
+
+1. What is deep learning?  
+Deep learning is subfield of machine learning inspired by structure and function
+of brain called artificial neural network. We have a lot numbers of algorithms
+under machine learning like Linear regression, SVM, Neural network etc and
+deep learning is just an extention of Neural networks. In neural nets we consider
+small number of hidden layers but when it comes to deep learning algorithms we
+consider a huge number of hidden latyers to better understand the input output
+relationship.
